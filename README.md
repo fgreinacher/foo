@@ -1,2 +1,3 @@
-# foo
-This is the Foo repo
+# Foo
+
+This is the foo repo
