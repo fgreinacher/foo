@@ -1,2 +1,3 @@
 # foo
-This is the Foo repo
+
+Grüezi mitenand, this is the Foo repo
